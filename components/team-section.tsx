@@ -4,32 +4,32 @@ import { Linkedin, Mail } from "lucide-react"
 export function TeamSection() {
   const teamMembers = [
     {
-      name: "Team Member 1",
-      role: "AI & Machine Learning Lead",
+      name: "Beckett Bonness",
+      role: "Glorious Six foot Chad Leader",
       bio: "Passionate about applying computer vision to solve real-world safety challenges.",
       image: "/professional-student-portrait.png",
     },
     {
-      name: "Team Member 2",
-      role: "Mechanical Engineering Lead",
+      name: "Windsor Kiang",
+      role: "Quant",
       bio: "Designing reliable mechanical systems that deploy in critical moments.",
       image: "/engineering-student-portrait.png",
     },
     {
-      name: "Team Member 3",
-      role: "Software & Systems Integration",
+      name: "Rohan Rai",
+      role: "AI Maestro",
       bio: "Building the software infrastructure that connects AI detection to mechanical response.",
       image: "/technology-student-portrait.jpg",
     },
     {
-      name: "Team Member 4",
-      role: "Research & Development",
+      name: "Derek Wang",
+      role: "Unc",
       bio: "Conducting research on drowning patterns and testing detection algorithms.",
       image: "/research-student-portrait.jpg",
     },
     {
-      name: "Team Member 5",
-      role: "Product Design & UX",
+      name: "David Huser",
+      role: "Head of Tomfoolery",
       bio: "Creating intuitive interfaces and ensuring Life Lattice integrates seamlessly into pool environments.",
       image: "/design-student-portrait.jpg",
     },
